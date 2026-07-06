@@ -1,6 +1,6 @@
-import{c}from"./check.CXcGxob0.js";/**
+import{c as e}from"./check.0r7eHOlk.js";/**
  * @license lucide-vue-next v0.556.0 - ISC
  *
  * This source code is licensed under the ISC license.
  * See the LICENSE file in the root directory of this source tree.
- */const o=c("clock",[["path",{d:"M12 6v6l4 2",key:"mmk7yg"}],["circle",{cx:"12",cy:"12",r:"10",key:"1mglay"}]]);export{o as C};
+ */const c=e("x",[["path",{d:"M18 6 6 18",key:"1bl5f8"}],["path",{d:"m6 6 12 12",key:"d8bk6v"}]]);export{c as X};
